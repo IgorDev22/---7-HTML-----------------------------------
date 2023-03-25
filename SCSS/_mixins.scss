@@ -1,0 +1,8 @@
+@mixin content-center{
+    justify-content: center;
+    align-items: center;
+}
+@mixin size-card{
+    height: 200px;
+    width: 150px;
+}
